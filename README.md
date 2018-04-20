@@ -1,6 +1,9 @@
 # ConveyLife
-Conway's Game of Life implementation using TenserFlow
-TensorFlow and TenorBoard should be installed on your machine.
+Conway's Game of Life implementation using TenserFlow.
+
+[TensorFlow](https://www.tensorflow.org/install/) should be installed on your machine.
+
+Use [TensorBoard](https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard) (included in TensorFlow) to visualize computation graph.
 
 You can run the script with one of predefined or your own map of cells as a text file:<br/>
 `python ConwayLife.py <cellsmapfile.txt>`
